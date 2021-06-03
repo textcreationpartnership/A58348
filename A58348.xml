@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reflection, in vindication of one arch-deacon (and consequently of all) from the scurrilous and groundless invectives against him, (besides several other more eminent persons) in a late scandalous pamplet [sic], intituled, A pretended visitor visited. In a letter, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 35KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58348</idno><idno type="EEBO-CITATION">99831199</idno>
+  <idno type="VID">35662</idno>
+  <idno type="EEBO-PROQUEST">2240913557</idno>
+  
+            <idno type="STC">Wing R693</idno>
+            <idno type="STC">ESTC R219751</idno>
+            <idno type="PROQUEST">99831199</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99831199e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58348)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35662)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2096:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reflection, in vindication of one arch-deacon (and consequently of all) from the scurrilous and groundless invectives against him, (besides several other more eminent persons) in a late scandalous pamplet [sic], intituled, A pretended visitor visited. In a letter, &amp;c.</title>
+               </titleStmt>
+               <extent>[2], 31, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Awnsham Churchil, at the Black Swan in Ave-mary-Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXC. [1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. 1 reads: A vindication of one arch-deacon, &amp;c.</note>
+                  <note>The "one arch-deacon" refers to Francis Fullwood, arch-deacon of Totnes (cf. Wing).</note>
+                  <note>The "late scandalous pamplet" [sic] refers to: "[Hebrew] or, A (pretended) visitor visited", published in 1690 (cf. Wing P3318A).</note>
+                  <note>Reproduction of the original in the Bodleian Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Fullwood, Francis, d. 1693 --  Early works to 1800.</term>
+               <term type="corporate_name">Church of England --  Clergy --  Early works to 1800.</term>
+               <term type="uniform_title">(Pretended) visitor visited --  Controversial literature --  Early works to 1800.</term>
+               <term type="topical_term">Church --  Authority --  Early works to 1800.</term>
+               <term type="topical_term">Church discipline --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35662:1"/>
+            <p>REFLECTION, IN VINDICATION OF ONE ARCH-DEACON, (And consequently of All) From the scurrilous and groundless <hi>Invectives</hi> against him, (besides se<g ref="char:EOLhyphen"/>veral other more eminent Persons) in a late scandalous Pamplet, in<g ref="char:EOLhyphen"/>tituled, <hi>A pretended Visitor visited.</hi>
+            </p>
+            <p>In a LETTER, <hi>&amp;c.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>1 Pet. 3.11.</hi>
+               </bibl>
+               <p>
+                  <hi>He that will love Life, and see good Days, let him refrain his Tongue from Evil, and his Lips that they speak no Guile.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Awnsham Churchil,</hi> at the Black Swan in <hi>Ave-mary-Lane,</hi> MDCXC.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:35662:2"/>
+            <pb n="1" facs="tcp:35662:2"/>
+            <head>A VINDICATION OF ONE <hi>ARCH-DEACON, &amp;c.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have received the new <hi>Piece,</hi> which I find to be <hi>another Draught,</hi> (much like the former) of Spite and Pride, of Envy, Malice and Revenge, and of unparallel'd <hi>Arrogance,</hi> under the Colours of <hi>Plain-dealing.</hi>
+            </p>
+            <p>But to deal plainly, Is it not a lamenta<g ref="char:EOLhyphen"/>ble and monstrous thing, to see a Man sit<g ref="char:EOLhyphen"/>ting in the <hi>Seat</hi> of the <hi>Scornful,</hi> and out of the Shop of his Common-Place-Book, cast<g ref="char:EOLhyphen"/>ing about holy Fire; and with the pretence of extraordinary <hi>Zeal</hi> for Religion and Re<g ref="char:EOLhyphen"/>formation, rebuking and exhorting others
+<pb n="2" facs="tcp:35662:3"/>with more than Authority; I say, to see such a one, even while he is about this very Work, giving a thousand Strokes of his own ill <hi>Man<g ref="char:EOLhyphen"/>ners,</hi> and worse <hi>Nature,</hi> and such as Charity it self can find no other use of, but to draw his own peculiar Character in all the <hi>Graces</hi> before-mentioned; as if the Man had design<g ref="char:EOLhyphen"/>ed and studied as much, to bewray himself in his own <hi>Dung,</hi> as to cast it upon others?</p>
+            <p>Moreover, with respect to the <hi>Arch-Deacon</hi> (as well as to his <hi>Visitor</hi>) 'tis the very Pi<g ref="char:EOLhyphen"/>cture of Ill-Luck.</p>
+            <div n="1" type="section">
+               <head>SECT. I.</head>
+               <p>FOR first, in a great part of his ranco<g ref="char:EOLhyphen"/>rous Pamphlet, he persecutes the Arch-deacon with this Charge, That he hath not used his Power to <hi>correct Vice:</hi> Whereas the Arch-deacon may challenge him to give one Instance, or to name one scandalous Person, that hath been duly presented to his Court, that hath not been prosecuted according to Law; except only <hi>one,</hi> for which Omission he hopes this <hi>Visitor</hi> will excuse him. Indeed,
+<pb n="3" facs="tcp:35662:3"/>there was a <hi>Clergy-man,</hi> well known to him<g ref="char:EOLhyphen"/>self, that tho he had a good <hi>Parsonage</hi> of his own, ascended to the Degree of a <hi>Curate</hi> in another place, more than twenty Miles di<g ref="char:EOLhyphen"/>stant from his own <hi>Rectory</hi> (doubtless out of abundance of care of his proper Charge, and for no by-Ends:) This Clergy-man, tho as great a <hi>Momus</hi> as himself, continued for se<g ref="char:EOLhyphen"/>veral years together so shamefully and scanda<g ref="char:EOLhyphen"/>lously to neglect his own <hi>Parish,</hi> neither vi<g ref="char:EOLhyphen"/>siting it himself, nor taking tolerable Care to have it supplied by sufficient Curats, for a long time together, having none at all, and sometimes <hi>one,</hi> that was worse than none. This Person, I confess, had the <hi>Clamours</hi> of the Country, both Clergy and Laity: This Person, I confess, was often signified to the Arch-Deacon's Court, as well as to the <hi>Bi<g ref="char:EOLhyphen"/>shop's,</hi> for his unpresidented and profligate Forgetfulness or Contempt of his Duty: and though the Arch-Deacon was thereunto often urged vvith great Importunity and Reason, yet out of respect to his Person, as vvell as his Calling and Parts; hoping still that the Clamours of the Country, and some private Intimations vvould have brought him home to his Duty, if he had any Grace or Shame.
+<pb n="4" facs="tcp:35662:4"/>I confess, the Arch-Deacon did neglect to pro<g ref="char:EOLhyphen"/>secute him vvith the Severity he deserved; for which perhaps he may have some cause to fear, that God hath suffered his <hi>unruly Evil</hi> to be his Scourge.</p>
+               <p n="2">2. But this Charge is hotly aggravated, <hi>page</hi> 6. <hi>If you say</hi> (saith he to the Arch-Dea<g ref="char:EOLhyphen"/>con) <hi>there are no Presentments made of such Crimes and Offences as I write of, Whose Fault is it, that they have not been questioned by whom Pre<g ref="char:EOLhyphen"/>sentments have been wilfully omitted? Not so much as one Drunkard, Blasphemer, Swearer or lewd Liver within your Arch-deaconry?</hi>
+               </p>
+               <p>
+                  <hi>Sol.</hi> 'Tis hence evident, that those that look too much abroad, are the less conscious of their own Faults. If his own <hi>Parish,</hi> as well as the Neighbourhood, be indeed so vile as he would represent them: two Reasons are at hand for it; First, Supposing a doubt<g ref="char:EOLhyphen"/>ful thing, that he is careful to do the Duty of his Place, now he is amongst them, yet the ill Consequences of his former so long and scandalous Absence and Neglects may not yet be worn out. Secondly, His despi<g ref="char:EOLhyphen"/>sing that <hi>Authority,</hi> and disowning those Courts
+<pb n="5" facs="tcp:35662:4"/>in the customary Places, where they are kept on purpose to receive Presentments, and re<g ref="char:EOLhyphen"/>form ill Manners. To complain, the End is not obtained; and yet not to use, but defy, the ordinary <hi>Means</hi> of it, is another Reason, with the addition of Hypocrisy. But put the Case as it ought to be: Suppose the <hi>Church<g ref="char:EOLhyphen"/>wardens,</hi> after they have been sworn, and ad<g ref="char:EOLhyphen"/>monished by the Arch-Deacon, to discharge their Oaths and Duties faithfully, they do grosly neglect to present the <hi>Scandalous:</hi> speak wisely, Where is the Fault, if the Scandalous be not prosecuted? In this Case, if the <hi>Mi<g ref="char:EOLhyphen"/>nister</hi> will neither present the <hi>Scandalous</hi> him<g ref="char:EOLhyphen"/>self, nor the <hi>Wardens</hi> for not presenting, sure such a Minister hath the least cause to com<g ref="char:EOLhyphen"/>plain of the <hi>Court,</hi> because Vice is not pu<g ref="char:EOLhyphen"/>nish'd: he knows but little, if he knows not, that the Arch-Deacon must proceed only <hi>se<g ref="char:EOLhyphen"/>cundum Allegata &amp; Probata.</hi> If there be no Presentment, 'tis plain that the neglect of Punishment comes not upon the Courts, but upon the Wardens, and upon the Minister, who knows those in his Parish that ought to be presented and prosecuted, and yet doth not his lawful endeavour to have them so. Whatever Men imagine or talk to that pur<g ref="char:EOLhyphen"/>pose,
+<pb n="6" facs="tcp:35662:5"/>'tis no easy matter to transfer all Faults unpunish'd upon the Arch-Deacon, or his Of<g ref="char:EOLhyphen"/>fice: And if this be a third Account of the Matter, more severe than he expected, he must remember that a <hi>Gun</hi> over-charged will <hi>recoil.</hi>
+               </p>
+               <p>I shall set before him a notable <hi>Example,</hi> as pertinent as any in his Common-Place-Book: If it be not to be found there, he may have it in a late Author; it may per<g ref="char:EOLhyphen"/>haps instruct him a little, if any thing can cure a cancrous Envy, besides Preferment, which I fear he despairs of: The Example is given him in the words, and from the Expe<g ref="char:EOLhyphen"/>rience of a certain Bishop of <hi>London,</hi> in <hi>Hen.</hi> 2d's Time, thus;</p>
+               <p>
+                  <q>When (saith he) I first entred into a <hi>Monastery,</hi> I was wont to blame very much the sluggishness of my <hi>Governors.</hi> When I became a <hi>Prior,</hi> I would complain of <hi>Ab<g ref="char:EOLhyphen"/>bots:</hi> Afterwards, arising to the Honour of an <hi>Abbot,</hi> I favoured my Fellow-<hi>Abbots,</hi> but ceased not to reprehend <hi>Bishops.</hi> And, lastly, when I was a <hi>Bishop</hi> my self, I began to see how much easier a thing it is to find faults than to mend them.</q>
+               </p>
+               <p n="3">
+                  <pb n="7" facs="tcp:35662:5"/> 3. But, I must not leave him the advan<g ref="char:EOLhyphen"/>tage to glorie, by omitting the due conside<g ref="char:EOLhyphen"/>ration of the huge Force of two ancient <hi>Ca<g ref="char:EOLhyphen"/>nons,</hi> which he begins his notable Charge withal, and makes the <hi>Foundation</hi> of it: They are these.</p>
+               <p>
+                  <hi>Sint autem solliciti frequentèr interesse Capitu<g ref="char:EOLhyphen"/>lis per singulos Decanatus in quibus diligenter in<g ref="char:EOLhyphen"/>struant Sacerdotes.</hi> Again, <hi>Archidiaconi Capi<g ref="char:EOLhyphen"/>tulis per singulos Decanatus frequenter intersint, in quibus diligentèr instruant Sacerdotes.</hi>
+               </p>
+               <p>Whence he concludes, that because the Arch-Deacon doth not observe these Canons, he ought not to expect <hi>Procuration.</hi>
+               </p>
+               <p>But why did he not put these Canons into <hi>English,</hi> with his usual Accents? Was it, be<g ref="char:EOLhyphen"/>cause he understood not the meaning of <hi>Ca<g ref="char:EOLhyphen"/>pitulis interest?</hi> Or for another Reason, be<g ref="char:EOLhyphen"/>cause then every one would have decern'd the impertinence of his Application?</p>
+               <p>Now these <hi>Canons</hi> concern the Arch-Dea<g ref="char:EOLhyphen"/>con's <hi>Visitation,</hi> or not: If not, they are no<g ref="char:EOLhyphen"/>thing to the purpose; if they do, the present <hi>Law,</hi> as he himself seems to acknowledg, must set Bounds to their Obligation; and though they have the word <hi>[frequentèr],</hi>
+                  <pb n="8" facs="tcp:35662:6"/>yet they can neither oblige nor warrant the Arch-Deacon to visit the <hi>Clergy</hi> above <hi>once a Year,</hi> contrary to Law.</p>
+               <p>Indeed, the <hi>Dean</hi> R. is bound to visit them, <hi>Ecclesiatim,</hi> twice a Year; and to in<g ref="char:EOLhyphen"/>struct and admonish: Though, by the way, this bold <hi>Visitor,</hi> who was <hi>Dean</hi> R. last Year, may do well to remember, how he observed his Duty, by despising his Office, and confronting his Right Reverend <hi>Diocesan,</hi> even in his <hi>Visitation.</hi>
+               </p>
+               <p>Let us observe the <hi>End</hi> of the Injunction, as 'tis express'd in both those <hi>Canons, Instru<g ref="char:EOLhyphen"/>ant Sacerdotes,</hi> they go no farther. Now, if the Reason of these Laws be removed, is it not unreasonable to press their Obligation with the same strictness as formerly?</p>
+               <p>The <hi>Canons</hi> were made when Priestly Ig<g ref="char:EOLhyphen"/>norance and Blockishness, as well as Pro<g ref="char:EOLhyphen"/>faneness, call'd aloud for Instruction. But, blessed be God, we have generally a Lear<g ref="char:EOLhyphen"/>ned, Knowing, and Pious <hi>Clergy.</hi> The Arch-Deacon confesseth to be true what this Man thinks, that many of the Inferior <hi>Clergy</hi> are as deserving (if not more) of the Digni<g ref="char:EOLhyphen"/>ty as himself; and, thanks God, he gene<g ref="char:EOLhyphen"/>rally
+<pb n="9" facs="tcp:35662:6"/>hears Excellent <hi>Sermons</hi> at his Visita<g ref="char:EOLhyphen"/>tions, far better, he thinks, without Vani<g ref="char:EOLhyphen"/>ty, than he could make himself; however, as often as the Law allows him to visit, he endeavours to instruct the <hi>Priests,</hi> his Bre<g ref="char:EOLhyphen"/>thren, as well as he can.</p>
+               <p n="4">4. But why not <hi>per singulos Decanatus?</hi>
+               </p>
+               <p>
+                  <hi>Sol.</hi> There are <hi>five accustomed</hi> Places, the most convenient in the Arch-Deaconry, <hi>ap<g ref="char:EOLhyphen"/>proved</hi> by the Successive <hi>Bishops,</hi> time out of mind. Which words <hi>[approved by the Bi<g ref="char:EOLhyphen"/>shop]</hi> the <hi>Visitor,</hi> very honestly, no doubt, omits, in his recital of the Canon, (of 1603, <hi>Can.</hi> 125.) at which his Visitation and Courts are generally held: Thither the Clergy are every Year duly summon'd. Thither, no one ever refused to come, but our <hi>Visitor;</hi> and though some of them live not in the <hi>Deanery,</hi> where they are to attend, may not they be instructed, thus appearing, by the Arch-Deacon, as well as their Brethren of the same Deanery? And is not the End of these Canons then obtained? and what would he have more?</p>
+               <pb n="10" facs="tcp:35662:7"/>
+               <p> Besides, the Wardens have Books of <hi>Ar<g ref="char:EOLhyphen"/>ticles</hi> given them for <hi>every Deanery;</hi> and the Ministers respectively instructed to <hi>assist</hi> them, as to their <hi>Presentments;</hi> and if they do not Present, nor the <hi>Minister,</hi> (as be<g ref="char:EOLhyphen"/>fore) and no Reformation do proceed, the Fault must lie where in truth it is.</p>
+               <p>Besides, 'tis with thankfulness acknow<g ref="char:EOLhyphen"/>ledged by the rest of the Clergy, and Laity, that the Arch-Deacon doth ordinarily, short<g ref="char:EOLhyphen"/>ly after his Visitation, keep his Court at a convenient Place, within the <hi>Deanery</hi> where<g ref="char:EOLhyphen"/>in our <hi>Visitor</hi> resides, when he is at Home, for the ease of that side of the Country.</p>
+               <p>The Sum is, That the <hi>Pope's Legats Ca<g ref="char:EOLhyphen"/>nons,</hi> signify not much in <hi>England;</hi> if nei<g ref="char:EOLhyphen"/>ther Acts of Parliament, nor Consent or Usage of the People of <hi>England</hi> have confir<g ref="char:EOLhyphen"/>med, and made them <hi>Laws,</hi> as the known <hi>Statute</hi> of <hi>Hen.</hi> 8. remonstrates; and for what I can see, <hi>Consuetudo,</hi> in this case also, is a rub in his way: And while the Arch-Deacon Visits at such Places as are conveni<g ref="char:EOLhyphen"/>ent in themselves, and established for that purpose by constant <hi>Custom,</hi> and approved by the Bishop for the Time being, according
+<pb n="11" facs="tcp:35662:7"/>to our own Protestant Canon, and visits there as often as the Law permits him, and as often as he Visits, endeavours to assist his Brethren the best he can, with his Advice and Instru<g ref="char:EOLhyphen"/>ctions, (which he neither denies them at any other time, when any of his Brethren desire it of him) he need not be troubled with Old <hi>Otho</hi>'s Canons, or <hi>Othobon</hi>'s repetiti<g ref="char:EOLhyphen"/>on of them.</p>
+               <p>Thus the <hi>Foundation</hi> being weak, all his <hi>Invectives</hi> built upon it, and continued through at least forty <hi>Pages,</hi> tend much to Edification: But the <hi>Mercury</hi> in his Brains will <hi>Salivate,</hi> till the prepared <hi>Virulency</hi> be all spit out.</p>
+               <p n="5">5. Thus far upon a <hi>Supposition,</hi> that those Ancient <hi>Canons</hi> concern'd the Arch-Deacon's ordinary <hi>Visitations:</hi> but if they do not con<g ref="char:EOLhyphen"/>cern such <hi>Visitations,</hi> how impertinently are they forced to serve his Covetous Design to save his <hi>Procurations,</hi> which, he saith, are due only <hi>ratione Visitationis.</hi>
+               </p>
+               <p>Now, 'tis so evident from the very Rea<g ref="char:EOLhyphen"/>son of the Thing, and from the Places where he finds these <hi>Canons</hi> in <hi>Lindwood,</hi> that these Canons did not concern the Arch-Dea<g ref="char:EOLhyphen"/>con's
+<pb n="12" facs="tcp:35662:8"/>ordinary Visitations: that if this Cri<g ref="char:EOLhyphen"/>tick did not observe it, it must be for want of Sense; but if he did, and yet boldly urge them contrary to their purpose, where was his <hi>Conscience?</hi>
+               </p>
+               <p>The Reasons demonstrating that these Canons did not concern ordinary <hi>Visitations,</hi> are these;</p>
+               <p n="1">1. From the <hi>gloss</hi> upon the word <hi>[fre<g ref="char:EOLhyphen"/>quentèr] [indeterminate loquitur],</hi> which can<g ref="char:EOLhyphen"/>not agree with ordinary <hi>Visitations;</hi> for <hi>Lind<g ref="char:EOLhyphen"/>wood</hi> himself tells us, They are determined; and that they are to be held but <hi>once a Year.</hi> Vid. de Arcd.</p>
+               <p>'Tis further added, <hi>Intellige quoties opus erit, juxta Arbitriu mboni viri.</hi> So that the Canon makes the Judgment of a good Arch-Dea<g ref="char:EOLhyphen"/>con, if such a one there may happen to be, how often he will go to instruct his Clergy: but the Law limits his ordinary Visitation to once a Year; and if Procurations are pay<g ref="char:EOLhyphen"/>able at every such Visitation, our Visitor will judg it often enough.</p>
+               <p n="2">
+                  <pb n="13" facs="tcp:35662:8"/> 2. But he gives us yet clearer Evidence; for the <hi>Gloss</hi> observes, there was no Mony to be paid or required for the Arch-Deacon's Visits, according to these Canons, which he knows is otherwise at his ordinary Visitations, <hi>viz.</hi> Procurations.</p>
+               <p n="3">3. Therefore, it is there farther said, That this Constitution, <hi>perrarò Servatur;</hi> even then, for our Visitor, and his Brother <hi>E. H</hi>'s beloved Reason, because <hi>no Mony was to be paid.</hi> But he very well knows, that Visita<g ref="char:EOLhyphen"/>tions were and are constantly observed, and no doubt they will say, for the contrary Reason.</p>
+               <p n="3">3. Again, the Author remarks, that this practice, <hi>quando{que} per Decanos Rurales,</hi> did formerly belong to the Dean <hi>Rural,</hi> who, yet we know, had never Authority out of his own <hi>Deanery;</hi> and consequently, could ne<g ref="char:EOLhyphen"/>ver Visit as the Arch-Deacon is bound to do.</p>
+               <p n="4">4. Besides, the Reason of the Canon be<g ref="char:EOLhyphen"/>ing removed, as we observ'd before, and
+<pb n="14" facs="tcp:35662:9"/>our Clergy well instructed, and wiser, as this Man thinks, than their Teacher; who better understands our <hi>Rubrick,</hi> than those ancient blockish <hi>Priests</hi> did their <hi>Mass,</hi> or the <hi>Substance of the Sacraments,</hi> for their bet<g ref="char:EOLhyphen"/>ter instruction, wherein this Canon was made and repeated, as we find in the words of it; I say, the Reason of it ceasing, there is no Reason for the continuance of it, espe<g ref="char:EOLhyphen"/>cially seeing the End of those Canons are supposed, by the Law, to be sufficiently an<g ref="char:EOLhyphen"/>swered by our <hi>Annual</hi> Visitations.</p>
+               <p n="5">5. But where will our Visitor find the <hi>Capitula Ruralia?</hi> and if there be neither <hi>Rea<g ref="char:EOLhyphen"/>son</hi> nor <hi>Place</hi> for such Instructions, to what End is the <hi>Canon?</hi> Indeed, if we heed the duty of the Dean <hi>Rural,</hi> who by Custom is to Admonish and Present the Clergy that will not Reform, the substance of that An<g ref="char:EOLhyphen"/>cient Office seems devolv'd upon him a<g ref="char:EOLhyphen"/>gain; but however, there can be nothing plainer, than that these Ancient Canons con<g ref="char:EOLhyphen"/>cern not the ordinary Visitation of the Arch-Deacon, q. E. D.</p>
+               <pb n="15" facs="tcp:35662:9"/>
+               <p> He saith, <hi>p.</hi> 6. <q>If those Passages <hi>(mean<g ref="char:EOLhyphen"/>ing these Canons)</hi> had been well observed and regarded, your Libel, I suppose, (by which you claim to be paid for what you never did) had been omitted;</q>
+                  <hi>i. e.</hi> you would never have insisted upon the paiment of <hi>Procurations.</hi> And, I say, had he made Conscience, either of being Just or True; or been careful to observe, either his Au<g ref="char:EOLhyphen"/>thor, or his Duty, he had never created so much trouble to himself, or others; or struck so Fanatically at all the Arch-Deacons of the Church of <hi>England,</hi> through the innocent Sides of his own. Are they not without <hi>under<g ref="char:EOLhyphen"/>standing, that work Wickedness? Thy Tongue ima<g ref="char:EOLhyphen"/>gineth Wickedness: thou hast loved to speak all words that may do hurt; O thou false Tongue.</hi> Psal. 52.53.</p>
+            </div>
+            <div n="2" type="section">
+               <pb n="16" facs="tcp:35662:10"/>
+               <head>SECT. II.</head>
+               <p>
+                  <hi>SEcondly;</hi> Having found him not very lucky hitherto, let us see whether he is any thing more happy in his other great <hi>Charge,</hi> which he loads the Arch-Deacon with in above Twenty Pages together, that he signally framed the <hi>Indictment</hi> against him; that he <hi>indicted</hi> him: And that after the <hi>Cer<g ref="char:EOLhyphen"/>tiorari,</hi> he did get a <hi>Procedendo</hi> to bring the Matter back again, <hi>&amp;c.</hi> from <hi>pag.</hi> 53, to <hi>pag.</hi> 67.</p>
+               <p>Now, though to deny the Matter of <hi>Fact,</hi> is more than the Arch-Deacon owes his <hi>Ma<g ref="char:EOLhyphen"/>lepert</hi> Visiter; as to question his <hi>Merit</hi> of the <hi>Indictment,</hi> is short of the Duty he owes to the Honourable Bench, and the Body of the County: Yet to stigmatize the Assurance and Honesty of daring Malice, the Truth shall out.</p>
+               <p>Now the plain and very Truth is this, That the Arch-Deacon had neither <hi>Hand</hi> nor <hi>Head</hi> in the whole Matter; he neither knew the
+<pb n="17" facs="tcp:35662:10"/>
+                  <hi>Time</hi> when, nor the <hi>Person</hi> by whom the In<g ref="char:EOLhyphen"/>dictment was made: he was never so much as consulted with about it; he never heard it read, or saw it, before he saw it in his bitter and revengeful Representation of it in his Book: neither was he at any time upon the <hi>Bench,</hi> though he had liberty enough to be there, when this <hi>Matter</hi> or this <hi>Person</hi> was in the least mentioned.</p>
+               <p>If this be true, what <hi>Brass</hi> must the Man wear, that shall so directly downright, with<g ref="char:EOLhyphen"/>out <hi>Condition,</hi> or the least hesitancy, publickly in print, charge upon the Arch-Deacon this Indictment, and treat him so scurrilously, and so vilely represent him to the World, as he thinks, for it, throughout so many Pages, upon his own ungoverned mere Imagination, without any ground at all.</p>
+               <p>For a <hi>Priest</hi> thus publickly to impeach his <hi>Superiour,</hi> with a false Accusation, when there was a way open to have known the Truth, in a Matter too be judged highly <hi>Criminal,</hi> I will not say it renders him <hi>Falsariam</hi> in the Civil and Canon Law, yet I must say, 'tis
+<pb n="18" facs="tcp:35662:11"/>an unchristian and inhumane Violation of Two great Commandments, the <hi>Fifth</hi> as well as the <hi>Ninth.</hi>
+               </p>
+               <p n="2">2. To plead, he presum'd it was so, comes too late to excuse him. Did he first inquire into the matter or not? If not, it was cer<g ref="char:EOLhyphen"/>tainly, at least, <hi>Evil Surmise,</hi> and <hi>Rash Judg<g ref="char:EOLhyphen"/>ment;</hi> which are Sins in themselves, and add rather to, than any way extenuate the <hi>Slander.</hi>
+               </p>
+               <p>If he did enquire? the Return was, That the Arch-Deacon did so indite him, or he did not: If the former, which is contrary to the Truth, I pity him, that he hath no Friend left to give him true Information: But if he vvas told vvho the Person vvas, and that it was not the Arch-Deacon; what <hi>Impudence</hi> as well as <hi>Calumny</hi> cloggs the Falshood he first wilfully conceived, and novv glories in!</p>
+               <p n="3">3. If he yet shall sneak and say, he <hi>pre<g ref="char:EOLhyphen"/>sumed</hi> it, vvithout enquiry, because he thought he had ground so to do: His only Ground must be this, because he had vilified the Arch-Deacon
+<pb n="19" facs="tcp:35662:11"/>in his former Book. Now that very Reason makes it a mere <hi>Presumption,</hi> and the Falshood yet inexcusable: for though he had spitefully enough treated the Arch-Deacon in that Book, yet he could not but know, he had there said nothing of him that was mat<g ref="char:EOLhyphen"/>ter of an Indictment; but that he had cast a great deal more of his Dirt upon many others, that were far above the Arch-Deacon, and more deservedly offended, and fitter both by <hi>Place</hi> and <hi>Concern</hi> to cause him to be indicted, than the Arch-Deacon. This he must needs be sensible of: but his Province of Spire and Revenge in this new Piece was to perse<g ref="char:EOLhyphen"/>cute the Arch-Deacon above any body else; and that's all that can be said for him in this matter.</p>
+               <p>
+                  <hi>Now what Reward shall be given or done un<g ref="char:EOLhyphen"/>to thee, thou false Tongue? Thou hast loved Unrigh<g ref="char:EOLhyphen"/>teousness more than Goodness, and to talk of Lies more than Righteousness. He flattereth himself in his own sight, till his abominable Sin be found out: the Words of his Mouth are unrighteous and full of Deceit.</hi> If he had found the Arch-Dea<g ref="char:EOLhyphen"/>con to have made the least Trip, thus
+<pb n="20" facs="tcp:35662:12"/>would he have storm'd; but I spare him.</p>
+               <p>For, not to be able to speak forth the Words either of Truth or Soberness, is a de<g ref="char:EOLhyphen"/>gree of <hi>Madness.</hi> Otherwise it is hard to be imagined that the Man, while he was plea<g ref="char:EOLhyphen"/>sed with the <hi>Patron,</hi> should first give it un<g ref="char:EOLhyphen"/>der his Hand, that the Patron's <hi>Right</hi> to pre<g ref="char:EOLhyphen"/>sent was unquestionable; and that he could prove it by Authentick Evidences of above an hundred Years standing; and yet after<g ref="char:EOLhyphen"/>wards, when angry, write to the same Pa<g ref="char:EOLhyphen"/>tron, that his Title to the Same was naught; <hi>Literae Scriptae manent.</hi>
+               </p>
+            </div>
+            <div n="3" type="section">
+               <pb n="21" facs="tcp:35662:12"/>
+               <head>SECT. III.</head>
+               <p>
+                  <hi>THirdly;</hi> He will try his Fortune with the Arch-Deacon once more; and here he visits with a <hi>Rod</hi> indeed. <q>Let me (saith he, <hi>page</hi> 48.) in the next place reckon with you about your late Pre<g ref="char:EOLhyphen"/>varication and breach of Promise, bearing date from <hi>December</hi> 15, 1687. on the Morning of which Day, <hi>&amp;c.</hi> when you were told the Book should be suppress'd, if the Persons concerned in the Contents of it, would make the Author Satisfacti<g ref="char:EOLhyphen"/>on; which as soon as you heard, you promised to be instrumental in procuring it; next to give me notice by your self im<g ref="char:EOLhyphen"/>mediately of what should be offered or might be expected.</q>
+               </p>
+               <p>
+                  <hi>Answ.</hi> In answer for the Arch-Deacon, that here is some Truth indeed, but spoil'd in the Account. 'Tis true, he came to the Arch-Deacon's House, and to him made hea<g ref="char:EOLhyphen"/>vy
+<pb n="22" facs="tcp:35662:13"/>complaints of his Poverty, and some hard Usage, as he pretended from two Per<g ref="char:EOLhyphen"/>sons especially, whom he had bespatter'd sufficiently in the said Book. Withal, he assured the Arch Deacon he was so poor, that if he should die in that Condition, he had not five <hi>Pounds</hi> apiece to leave to his many Children, (two such Portions at least, I be<g ref="char:EOLhyphen"/>lieve he hath thrown away, upon the two worthy <hi>Brats</hi> of his teeming Brain.) Here<g ref="char:EOLhyphen"/>upon the Arch-Deacon did really, and in ear<g ref="char:EOLhyphen"/>nest, (whatever he suggests to the contrary) pity him, and did intimate to him, that as to the Mony due to him for <hi>Procurations</hi> for the time past, he needed not to trouble himself; provided he did nothing to prejudice Successi<g ref="char:EOLhyphen"/>on. And, after much Discourse, he well remembers, that this Visitor did promise to leave the business of his Procurations to the Arch-Deacon himself; and also, as he con<g ref="char:EOLhyphen"/>fesseth, <hi>to suppress that Book,</hi> if the Persons whom he had principally offended in it, would shew him any Kindness, considering his Condition, <hi>&amp;c.</hi> The Arch-Deacon here<g ref="char:EOLhyphen"/>upon, meerly out of his Kindness to him, and pure Compassion, did, upon those two
+<pb n="23" facs="tcp:35662:13"/>Conditions, (that he would leave the mat<g ref="char:EOLhyphen"/>ter of the <hi>Procurations</hi> to the Arch-Deacon himself, and also wholly suppress that <hi>scan<g ref="char:EOLhyphen"/>dalous</hi> Book according to his Promise) pro<g ref="char:EOLhyphen"/>mise him those two things: First, To speak to those Persons (he knows who I mean) to take him as an Object of Pity, and to shew him some Kindness, as there might be occasi<g ref="char:EOLhyphen"/>on, he promising to suppress his Book. Se<g ref="char:EOLhyphen"/>condly, And the Arch-Deacon did also pro<g ref="char:EOLhyphen"/>mise (<hi>i. e.</hi> upon those two Conditions still) to give him an account by <hi>Letter,</hi> what Suc<g ref="char:EOLhyphen"/>cess he was like to have.</p>
+               <p n="2">2. But now, why did not the Arch-Dea<g ref="char:EOLhyphen"/>con perform his Promise?</p>
+               <p>For the first Branch of it, he expresly ac<g ref="char:EOLhyphen"/>knowledgeth the Arch-Deacon did speedily and joyfully perform it, though 'tis expressed in a manner like himself; <hi>Then like a Man overjoyed, you posted away to</hi> Philargyrus, <hi>&amp;c.</hi> page 48. The Truth is, the Arch-Deacon did hasten to do him all the Kindness he could, did forthwith go to both the offended Persons, did heartily plead for some Pity
+<pb n="24" facs="tcp:35662:14"/>and Favour for him: But those Persons knew him better than the Arch-Deacon did; and he could prevail nothing on his behalf: yea, what he said and suffer'd for him too, this Visitor deserves not to know.</p>
+               <p n="3">3. But why did not the Arch-Deacon give him an account hereof by his Letter, as he promised? He may know so much, that the Arch-Deacon did write a Letter for him, and intended to send it to him; but it being known and seen to be too much in Favour of him, the Truth is, the Arch-Deacon was disswaded, and even forbidden to send it, or to have any thing to do with him, with assu<g ref="char:EOLhyphen"/>rance, that what a Man should either write to him, or discourse, might be made more <hi>publick</hi> than he would have it, which is here<g ref="char:EOLhyphen"/>by sufficiently verified.</p>
+               <p>However, the Arch-Deacon did acquaint his <hi>Friend</hi> (who also knows the Truth of all that is here said) with what the Arch-Deacon thought was fit for him to know upon the whole Matter, who did acquaint him with it accordingly, (which was all that he desired of the Arch-Deacon;) and he acknowledg<g ref="char:EOLhyphen"/>eth
+<pb n="25" facs="tcp:35662:14"/>the Receipt of a Letter to that purpose, dated (so punctual is the Man) <hi>Dec.</hi> 21.87.</p>
+               <p>Here is an account of the Arch-Deacon's <hi>Promise;</hi> but where is the <hi>Prevarication?</hi>
+               </p>
+               <p>The Arch-Deacon's Promises were made, (as he himself confesseth) upon Conditions. Were not those Conditions promised by our <hi>Visitor?</hi> especially, that for the suppressing his egregious Pamphlet? Did he perform his Promise? Did he not most shamefully break his Faith? His Promise, at least, must sig<g ref="char:EOLhyphen"/>nify the suspending of the publication of the Book. Did he do this? Far from it: The Bookseller is in being, who received an Order from him to fetch a great many of those Books, in order to sell or publish them, (if any thought them worth their Mony or Time). Did he call in this Order, or re<g ref="char:EOLhyphen"/>quire this Bookseller to suspend the Execution of it for any time, till he knew whether any Kindness would be shewed him, or not? Which was the least that ought to have been done by him, for the keeping his Word, or saving himself from the Reflection of <hi>Preva<g ref="char:EOLhyphen"/>rication.</hi>
+               </p>
+               <pb n="26" facs="tcp:35662:15"/>
+               <p> Farther, we have heard of many of these <hi>Pamphlets</hi> which his own Hand scattered, but never of one that he endeavoured to recover or call in again, to save his Word and Cre<g ref="char:EOLhyphen"/>dit.</p>
+               <p>But I must complain with the Psalmist; <hi>If he come to see me, he speaketh Vanity; and his Heart conceiveth Falshood within himself; and when he cometh forth, he telleth it.</hi> Psal. 41.6. For now, considering what the Arch-Dea<g ref="char:EOLhyphen"/>con did, in pursuance of his Promise; and what this Visitor did not, in performance of his; and how thereby, the Ground and Condition, upon this Visitor's own reckoning, the Obligation upon the Arch Deacon was wholly vacated.</p>
+               <p>And, lastly, considering that this Visitor hath, under his Hand, <hi>pag.</hi> 49. signified, That he was assured it was not the Arch-Dea<g ref="char:EOLhyphen"/>con, but another <hi>bungling Ignoramus</hi> that spoil'd all. Pray, where lies the <hi>Prevarica<g ref="char:EOLhyphen"/>tion?</hi> How, or which way appear'd the Arch-Deacon's <hi>drawn Sword?</hi> Or, in short, to ap<g ref="char:EOLhyphen"/>ply his own Words, Where are the <hi>Hard Things,</hi> or the <hi>Malice</hi> without <hi>Success?</hi> that
+<pb n="27" facs="tcp:35662:15"/>is, What's become of his <hi>Faith</hi> and <hi>Charity? Their own Tongues shall make them fall, insomuch that whoso feeth them, shall laugh them to scorn.</hi> Psal. 46.8.</p>
+            </div>
+            <div n="4" type="section">
+               <head>SECT. IV.</head>
+               <p>HItherto we have view'd his Picture in some eminent Strokes or Shadows of it: And so far it highly deserves the Name at first given it, the Picture of <hi>Ill-Luck.</hi>
+               </p>
+               <p>We shall briefly observe, that the whole management of both his doughty Books is <hi>unlucky</hi> enough.</p>
+               <p>The Paint and Colours of his plain deal<g ref="char:EOLhyphen"/>ing are laid so thin, that one may see all the Corruption and Rottenness that is under them. He hath, indeed, put on a fine Cloak, but his foul Fingers have made such Holes in it, that every Body sees through it, and dis<g ref="char:EOLhyphen"/>cerns it to be a very Cloak of Maliciousness; and his Folly, as well as his Wrath, is made manifest to all Men.</p>
+               <pb n="28" facs="tcp:35662:16"/>
+               <p> The Malice of the Worm is apparent; But where was his Wit and Cunning? What! could he not have put on a <hi>demure</hi> Counte<g ref="char:EOLhyphen"/>nance, and reprov'd and lash'd his Betters; but he must needs tell the World, in print, That the Cause of all his <hi>Zeal</hi> was nothing but <hi>Revenge?</hi>
+               </p>
+               <p>Yet, thus it is, he that runs through his Books, may read and be satisfied, under his own Hand, that he <hi>glories in his Shame;</hi> giving his own account of the whole Mat<g ref="char:EOLhyphen"/>ter and Design of both his Books, as in short followeth.</p>
+               <p n="1">1. Because his Honourable Patron, who given him a Competent <hi>Living</hi> before, de<g ref="char:EOLhyphen"/>nied him another, (in his own Time and Way) he so vilely reflected both upon his said Patron and his Lady.</p>
+               <p n="2">2. Because the Clerk, whom the Patron thought more worthy of the Recotory, would not refuse it, that our <hi>Visitor</hi> might have it, he treats him with all the Scurrility his lit<g ref="char:EOLhyphen"/>tle Wit and unmeasurable Malice could in<g ref="char:EOLhyphen"/>vent.</p>
+               <p n="3">
+                  <pb n="29" facs="tcp:35662:16"/> 3. Because his <hi>Bishop</hi> would not assist him against the <hi>Patron</hi> and the <hi>Clerk,</hi> in that unjust, and ambitious, and covetous Design of his, we see with what Accusations and <hi>Billingsgate</hi>-Stuff he pursues him.</p>
+               <p n="4">4. Because that the <hi>Bishop</hi>'s Counsel, and some of the Justices of the Peace, call'd him to an account for his affronting his <hi>Diocesan;</hi> you may read, if you have patience, with what villanous and black Characters he hath signaliz'd every one of them.</p>
+               <p n="5">5. Lastly, Because the Arch-Deacon would not relinquish his Right in his <hi>Procurations,</hi> to the prejudice of his <hi>Successor;</hi> that very thing hath drawn out all the Foam and Venom against him, in this added to what he had spitishly vented in his former Piece.</p>
+               <p>This is the Person that thinks himself suf<g ref="char:EOLhyphen"/>ficiently provoked to be another <hi>Salvian,</hi> or St. <hi>Bernard,</hi> or <hi>Savonarola,</hi> to correct Man<g ref="char:EOLhyphen"/>ners, and reform the World.</p>
+               <pb n="30" facs="tcp:35662:17"/>
+               <p> Is not such a Criminal fit to be an Accuser, a Witness, and Judg of his Superiors? Let him rather lick up the <hi>Choler</hi> he hath <hi>vomited,</hi> and <hi>eat his own Dung,</hi> I mean, his foul words, wherewith he hath so shamefully polluted himself and his Profession. A Man must have abundance of Charity for him, that can forbear to think, that he hath renounc'd his Christianity, and given himself to the Ser<g ref="char:EOLhyphen"/>vice of the Devil, in <hi>evil-speaking, lying, and slandering.</hi>
+               </p>
+               <p>Let him put up all his borrowed Artillery into their Common-place again, till he hath a better Cause to imploy them, and at pre<g ref="char:EOLhyphen"/>sent be quiet, and satisfied with this, That notwithstanding all his impertinent and in<g ref="char:EOLhyphen"/>solent Cant, those bubbles of his Pride, and swelling words of Vanity, the Law must at last determine the Question about the Right of <hi>Procurations,</hi> and the Places of <hi>Visitations,</hi> wherein he hath given so many signs of fear, that he shall have <hi>Ill-luck</hi> indeed.</p>
+               <p>Now I shall conclude, with a word of serious advice to him, which, for his real good, I wish in earnest he would follow.</p>
+               <pb n="31" facs="tcp:35662:17"/>
+               <p>'Tis plain, his <hi>Disease</hi> is a Canker, and he may find in old <hi>Lillie</hi> an excellent and proper <hi>Recipe</hi> for that Distemper; which I heartily, as a Friend, commend to him: 'tis this, <hi>Sor<g ref="char:EOLhyphen"/>te tuâ contentus abi.</hi>
+               </p>
+               <p>If this be too weak, I advise him to that somewhat stronger and of better Authority: Psal. 37.8. <hi>Leave off from Wrath, and let go Displeasure: fret not thy self,</hi> else <hi>shalt thou be moved to do Evil:</hi> or, as in the other Transla<g ref="char:EOLhyphen"/>tion, <hi>in any wise to do Evil.</hi>
+               </p>
+               <p>If the Distemper be yet stubborn, I must use sharpness, and apply the Corrosive the Apostle once gave to a Man, that had pub<g ref="char:EOLhyphen"/>lished, that <hi>he himself was some Great One;</hi> and that, right or wrong, he would have a Spiri<g ref="char:EOLhyphen"/>tual Living, <hi>&amp;c. Repent therefore of this thy Wickedness, and pray God, if perhaps the thought of thine Heart may be forgiven thee; for I per<g ref="char:EOLhyphen"/>ceive, that thou art in the gall of bitterness, and in the bond of iniquity,</hi> Act. 8.9, 19, to 24.</p>
+               <closer>
+                  <signed>VALE.</signed>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
